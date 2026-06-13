@@ -60,25 +60,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit1257&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit1257&theme=tokyonight&hide_border=true" alt="Mohit's Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit1257&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohit1257&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
 ---
 
 <p align="center">
